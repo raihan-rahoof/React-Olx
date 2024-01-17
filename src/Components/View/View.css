@@ -9,6 +9,7 @@
 .viewParentDiv .imageShowDiv img {
   width: 65vw;
   height: 85vh;
+  border-radius: 25px;
 }
 
 .viewParentDiv .rightSection {
